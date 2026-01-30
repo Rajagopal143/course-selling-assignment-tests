@@ -1,5 +1,5 @@
 {
-  "name": "course-selling-api",
+  "name": "course-selling",
   "module": "index.ts",
   "type": "module",
   "private": true,
